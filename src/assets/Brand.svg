@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="503" height="76" viewBox="0 0 503 76">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="503" height="76" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component" clip-path="url(#clip-path)">
+    <text id="Atmospheric" transform="translate(0 54.5)" fill="#483c1f" font-size="50" font-family="JuliusSansOne-Regular, Julius Sans One"><tspan x="0" y="0">Atmospheric</tspan></text>
+    <text id="SPACE" transform="translate(350 58)" fill="none" stroke="#483c1f" stroke-width="2" font-size="55" font-family="ArchivoNarrowRoman-SemiBold, Archivo Narrow" font-weight="600"><tspan x="0" y="0">SPACE</tspan></text>
+  </g>
+</svg>
